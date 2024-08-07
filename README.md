@@ -1,6 +1,3 @@
-Dưới đây là phần README cho dự án của bạn:
-
----
 
 # Employee Management API
 
